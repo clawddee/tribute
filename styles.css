@@ -1,0 +1,27 @@
+body{
+  background-color: #F9F9E0;
+  font-family: Helvetica, sans- serif;
+  font-size: 25px;
+  color: #FFD0D0;
+  display: flex;
+  justify-content: center;
+}
+
+
+main {
+  border-style: solid;
+border-color: #3AA6B9;
+background: #3AA6B9;
+padding: 15px;
+}
+
+#image {
+height: auto;
+margin: 0 auto;
+display: block;
+max-width: 100%;
+}
+
+.credit {
+  font-size: 10px;
+}
